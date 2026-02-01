@@ -2,7 +2,7 @@
 """
 iMMPY Version 2.1 - last updated: Mon Dec  7 20:26:46 2020
 
-@Authors: Louis Clement-harris (L.T.Clement-harris@Exeter.ac.uk) & Aaron Walker (A.S.9Walker@gmail.com)
+@Authors: Aaron Walker (A.S.9Walker@gmail.com) & Louis Clement-harris (L.T.Clement-harris@Exeter.ac.uk)
 
 Living Systems Institute (LSI), University of Exeter
 
